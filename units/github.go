@@ -3,10 +3,7 @@ package units
 import (
 	"encoding/json"
 	"fmt"
-	"io"
 	"net/http"
-	"time"
-	"os"
 )
 
 // GitHubReleaseResponse 定义 GitHub API 返回的版本信息结构
